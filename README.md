@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/Monsterlallu/zphisher.git
+$ git clone https://github.com/Monsterlallu/MLphisher.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -

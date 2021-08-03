@@ -43,8 +43,8 @@ $ git clone https://github.com/Monsterlallu/MLphisher.git
 
 - Change to cloned directory and run `zphisher.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd MLphisher
+$ bash Mlphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
